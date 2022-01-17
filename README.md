@@ -6,7 +6,7 @@
 <br>
 
 ```
-<h1> Hey there! I'm Frank Ndung'u.</h1>
+ Hey there! I'm Frank Ndung'u.
 ```
 
 <!---
