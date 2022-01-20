@@ -1,6 +1,6 @@
-<h1> Hey there! I'm Frank Ndung'u. </h1>
+### <h1 align="center"> Hey there! I'm Frank Ndung'u. </h1>
 
-<h3 align="center"> about me <h3>
+<h3> about me <h3>
  
 <div>
  <p>
