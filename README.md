@@ -14,8 +14,7 @@ I'm a mid-level web developer able to build a web presence from the ground up - 
 My tech stack
 ``
 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) markup
-
+- markup; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) 
 
 <!---
 dosha10/dosha10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
