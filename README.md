@@ -13,7 +13,9 @@ I'm a mid-level web developer able to build a web presence from the ground up - 
 ``
 languages
 ``
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+-   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+-   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+
 
 
 ``
