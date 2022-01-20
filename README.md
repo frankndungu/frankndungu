@@ -21,7 +21,7 @@ languages
 ``
 tools
 ``
-- Web app development - React(NextJS) & HTML  
+- Web app development - React, NextJS, Flask, HTML
 - Styling - CSS, saa, styled-components, chakra-ui, tailwind, bootstrap
 - Backend apis - NodeJS, express, AWS CDK
 - Databases - Sql, mongodb, firebase
