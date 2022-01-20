@@ -1,8 +1,8 @@
 ### <h3> Hey there! I'm Frank Ndung'u. </h3>
 
-``
+```
 about me
-``
+```
  
 <div>
  <p>
@@ -10,9 +10,13 @@ I'm a mid-level web developer able to build a web presence from the ground up - 
 </p>
 </div>
 
-``
+```
+languages
+```
+
+```
 tools
-``
+```
 - Web app development - React(NextJS) & HTML  
 - Styling - CSS, saa, styled-components, chakra-ui, tailwind, bootstrap
 - Backend apis - NodeJS, express, AWS CDK
