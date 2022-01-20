@@ -13,10 +13,10 @@ I'm a mid-level web developer able to build a web presence from the ground up - 
 ``
 tools
 ``
-Web app development - React(NextJS) & HTML  
-Styling - CSS, saa, styled-components, chakra-ui, tailwind, bootstrap
-Backend apis - NodeJS, express, AWS CDK
-Databases - Sql, mongodb, firebase
+- Web app development - React(NextJS) & HTML  
+- Styling - CSS, saa, styled-components, chakra-ui, tailwind, bootstrap
+- Backend apis - NodeJS, express, AWS CDK
+- Databases - Sql, mongodb, firebase
 
 
 
