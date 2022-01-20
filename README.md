@@ -1,7 +1,7 @@
-### <h1 align="center"> Hey there! I'm Frank Ndung'u. </h1>
+### <h3> Hey there! I'm Frank Ndung'u. </h3>
 
 ``
-About me
+about me
 ``
  
 <div>
@@ -11,10 +11,14 @@ I'm a mid-level web developer able to build a web presence from the ground up - 
 </div>
 
 ``
-My tech stack
+tools
 ``
+Web app development - React(NextJS) & HTML  
+Styling - CSS, saa, styled-components, chakra-ui, tailwind, bootstrap
+Backend apis - NodeJS, express, AWS CDK
+Databases - Sql, mongodb, firebase
 
-- markup; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) 
+
 
 <!---
 dosha10/dosha10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
