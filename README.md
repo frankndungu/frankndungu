@@ -19,7 +19,7 @@ languages
 
 
 ``
-tools
+stack
 ``
 - Web app development - React, NextJS, Flask, HTML
 - Styling - CSS, saa, styled-components, chakra-ui, tailwind, bootstrap
