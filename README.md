@@ -20,7 +20,7 @@ languages
 stack
 ``
 - Web app development - React, NextJS, Flask, HTML
-- Styling - CSS, scss, styled-components, chakra-ui, tailwind, bootstrap
+- Styling - css, scss, styled-components, chakra-ui, tailwind, bootstrap
 - Backend apis - NodeJS, express, AWS CDK
 - Databases - Sql, mongodb, firebase
 - Cloud - AWS 
