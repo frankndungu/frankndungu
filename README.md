@@ -16,15 +16,14 @@ languages
 -   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 -   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
-
-
 ``
 stack
 ``
 - Web app development - React, NextJS, Flask, HTML
-- Styling - CSS, saa, styled-components, chakra-ui, tailwind, bootstrap
+- Styling - CSS, scss, styled-components, chakra-ui, tailwind, bootstrap
 - Backend apis - NodeJS, express, AWS CDK
 - Databases - Sql, mongodb, firebase
+- Cloud - AWS 
 
 
 
