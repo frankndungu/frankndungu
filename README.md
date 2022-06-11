@@ -1,7 +1,7 @@
-### <h3> Hey there! I'm Frank Ndung'u. </h3>
+# <h3> Hey there! I'm Frank Ndung'u. </h3>
 
 ``
-about me
+## About me
 ``
  
 <div>
@@ -11,9 +11,9 @@ I'm a mid-level web developer able to build a web presence from the ground up - 
 </div>
 
 ``
-languages
+### Languages
 ``
--   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+-   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript).\
 -   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 ``
