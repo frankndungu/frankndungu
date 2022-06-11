@@ -1,8 +1,8 @@
 # <h3> Hey there! I'm Frank Ndung'u. </h3>
 
-``
-## About me
-``
+```
+About me
+```
  
 <div>
  <p>
@@ -10,15 +10,17 @@ I'm a mid-level web developer able to build a web presence from the ground up - 
 </p>
 </div>
 
-``
-### Languages
-``
--   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript).\
+```
+Languages
+```
+
+-   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 -   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
-``
-stack
-``
+```
+Stack
+```
+
 - Web app development - React, NextJS, Flask, HTML
 - Styling - css, scss, styled-components, chakra-ui, tailwind,
 - Backend apis - NodeJS, express, firebase
