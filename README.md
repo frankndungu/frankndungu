@@ -1,5 +1,5 @@
 
-### <samp>&gt; Hi there, I'm <a href="https://www.linkedin.com/in/francis-ndung-u-67040218b/" target="_blank">Francis Ndungu</a>, welcome to my GitHub profile!
+### <samp>&gt; Hi there, I'm <a href="https://www.linkedin.com/in/francis-ndung-u-67040218b/" target="_blank">Francis Ndungu</a>, Welcome to my GitHub profile!
 
 
 <div>
@@ -9,13 +9,13 @@ I'm a mid-level web developer able to build a web presence from the ground up - 
 </div>
 
 
-# Languages
+### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript).\
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 
-# Stack
+### Stack
 
 Web app development - React, NextJS, Flask, HTML.\
 Styling - css, sass, styled-components, chakra-ui, tailwind.\
