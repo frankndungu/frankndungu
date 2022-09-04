@@ -9,9 +9,7 @@ I'm a mid-level web developer able to build a web presence from the ground up - 
 
 ### languages I am familiar with
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript).\
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python).\
-[![My Skills](https://skills.thijs.gg/icons?i=js,php,css,wasm)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,php,python)](https://skills.thijs.gg)
 
 
 
