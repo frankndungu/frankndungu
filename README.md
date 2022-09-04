@@ -15,11 +15,12 @@ I'm a mid-level web developer able to build a web presence from the ground up - 
 
 ### My stack
 
-Web app development - React, NextJS, Flask, HTML.\
+Web development structure - html, js .\
+Frameworks - React .\
 Styling - css, sass, styled-components, chakra-ui, tailwind.\
-Backend apis - NodeJS, express, firebase.\
-Databases - Sql, mongodb, firebase.\
-Cloud - AWS 
+Backend - php, nodejs, express, firebase .\
+Relational Database - mysql
+
 
 
 
