@@ -9,7 +9,8 @@ I'm a mid-level web developer able to build a web presence from the ground up - 
 
 ### languages I am familiar with
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,php,python)](https://skills.thijs.gg)![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+[![My Skills](https://skills.thijs.gg/icons?i=js,php,python)](https://skills.thijs.gg)<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+
 
 
 
