@@ -46,15 +46,9 @@ I enjoy writing about startups, businesses, and the technology that is transform
 
 ----
 
-
-
-### My stack
-
-Web development structure - html, js .\
-Frameworks - React .\
-Styling - css, sass, styled-components, chakra-ui, tailwind.\
-Backend - php, nodejs, express, firebase .\
-Relational Database - mysql
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
+   
+![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=dosha10&count_private=true)
 
 
 
