@@ -1,7 +1,7 @@
-### 👋 Hello There, I'm Francis Ndung'u!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### 👋 Hello There! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <a target="_blank" href="https://www.linkedin.com/in/francis-ndungu-67040218b//">
-  <img style="color:blue"> align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://www.instagram.com/francismndungu/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -18,6 +18,19 @@
 </br>
 
 ---- 
+
+Hi, I'm Francis, but you can call me **Frank**. 
+<p>
+I am an autodidact who began writing code as a mental exercise and eventually made programming my full-time profession. I'm passionate about creating innovative products that make a difference in people's lives. <br>
+I enjoy writing about startups, businesses, and the technology that is transforming our lives. I also work on interesting projects that pique my interest, and I'm a big fan of using technology for good.
+</p>
+
+* ✏ Weekly writer on dev.to, [follow me](https://dev.to/francisndungu). 
+* 💫 Always aiming at **usability** and **code performance** at all costs. 
+* 👽 Learning any tecnology that apears on my way.
+* 🛹 Also surfing on microcontrollers stuff.
+* 
+----
 
 <div>
  <p>
