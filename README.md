@@ -26,7 +26,7 @@ I enjoy writing about startups, businesses, and the technology that is transform
 </p>
 
 * 💫 Always aiming at **usability** and **code performance** at all costs. 
-* 👽 Learning any tecnology that apears on my way.
+* 👽 Learning any technology that apears on my way.
 * 🛹 Also surfing on microcontrollers stuff.
 
 ----
