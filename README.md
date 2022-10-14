@@ -10,6 +10,7 @@
 Hi, I'm Francis Ndung'u, but you can call me **Frank**. 
 <p>
 I am an autodidact who began writing code as a mental exercise and eventually made programming my full-time profession. I'm passionate about creating innovative products that make a difference in people's lives. <br>
+  
 I enjoy writing about startups, businesses, and the technology that is transforming our lives. I also work on interesting projects that pique my interest, and I'm a big fan of using technology for good.
 </p>
 
