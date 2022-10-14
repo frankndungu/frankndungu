@@ -5,9 +5,6 @@
 <a href="https://www.twitter.com/francodosha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
-
-</br>
-
 ---- 
 
 Hi, I'm Francis Ndung'u, but you can call me **Frank**. 
@@ -16,8 +13,8 @@ I am an autodidact who began writing code as a mental exercise and eventually ma
 I enjoy writing about startups, businesses, and the technology that is transforming our lives. I also work on interesting projects that pique my interest, and I'm a big fan of using technology for good.
 </p>
 
-* 💫 Always aiming at **usability** and **code performance** 
-* 👽 Learning any technology that apears on my way
+* ⚡ Always aiming at **usability** and **code performance** 
+* 👽 Open to collaborating on interesting projects
 * ⚽ #UPTHECHELS 
 
 ----
