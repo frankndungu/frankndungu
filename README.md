@@ -31,7 +31,7 @@ I enjoy writing about startups, businesses, and the technology that is transform
 
 ----
 
-**Languages and Tools:**  
+**Tools:**  
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -46,23 +46,18 @@ I enjoy writing about startups, businesses, and the technology that is transform
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ----
-
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Badges
+----
+
+#### Stats
    
 ![Frank GitHub stats](https://github-readme-stats.vercel.app/api?username=dosha10&count_private=true)
 
-----
-
+#### Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dosha10&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
 
-----
-
+#### Streaks
 <a href="http://www.github.com/dosha10"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dosha10&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-----
-
-
-
 
 <!---
 dosha10/dosha10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
