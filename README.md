@@ -47,17 +47,19 @@ I enjoy writing about startups, businesses, and the technology that is transform
 
 ----
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Badges
    
 ![Frank GitHub stats](https://github-readme-stats.vercel.app/api?username=dosha10&count_private=true)
 
 ----
 
-#### See my top languages
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dosha10&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
 
+----
+
 <a href="http://www.github.com/dosha10"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dosha10&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+----
 
 
 
