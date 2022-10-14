@@ -27,7 +27,7 @@ I enjoy writing about startups, businesses, and the technology that is transform
 
 * 💫 Always aiming at **usability** and **code performance** 
 * 👽 Learning any technology that apears on my way
-* ⚽ I love football
+* ⚽ #UPTHECHELS 
 
 ----
 
