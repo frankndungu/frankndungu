@@ -6,7 +6,7 @@
 <a target="_blank" href="https://www.instagram.com/francismndungu/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a target="_blank" href="https://dev.to/francisndungu/">
+<a target="_blank" href="https://dev.to/francodosha/">
   <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>
 <a target="_blank" href="mailto:ndungufrank01@gmail.com">
@@ -25,9 +25,9 @@ I am an autodidact who began writing code as a mental exercise and eventually ma
 I enjoy writing about startups, businesses, and the technology that is transforming our lives. I also work on interesting projects that pique my interest, and I'm a big fan of using technology for good.
 </p>
 
-* 💫 Always aiming at **usability** and **code performance** at all costs. 
-* 👽 Learning any technology that apears on my way.
-* 🛹 Also surfing on microcontrollers stuff.
+* 💫 Always aiming at **usability** and **code performance** 
+* 👽 Learning any technology that apears on my way
+* ⚽ I love football
 
 ----
 
