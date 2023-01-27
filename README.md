@@ -4,7 +4,7 @@
 ---- 
 
 <p>
-I write code ⚡JavaScript, React and Node.js enthusiast.
+I write code⚡ JavaScript, React and Node.js enthusiast.
 </p>
 
 * **Usability** and **code performance** 
