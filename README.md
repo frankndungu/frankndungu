@@ -37,12 +37,12 @@ I enjoy writing about startups, businesses, and the technology that is transform
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Badges
 ----
 
-<a href="http://www.github.com/dosha10"><img src="https://github-readme-stats.vercel.app/api?username=dosha10&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Frank's GitHub stats" /></a>   
+<a href="http://www.github.com/frankndungu"><img src="https://github-readme-stats.vercel.app/api?username=dosha10&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Frank's GitHub stats" /></a>   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dosha10&layout=compact&langs_count=10)](https://github.com/dosha10/github-readme-stats)
 
 
-<a href="http://www.github.com/dosha10"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dosha10&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/frankndungu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dosha10&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <!---
 dosha10/dosha10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
