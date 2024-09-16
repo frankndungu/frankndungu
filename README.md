@@ -4,25 +4,22 @@
 ---- 
 
 <p>
-I write code⚡ JavaScript, React and Node.js enthusiast.
+I write code ⚡
 </p>
-
-* **Usability** and **code performance** 
-* 👽 Open to collaborating on interesting projects
-* ⚽ #UPTHECHELS 
 
 ----
 
 ## **My Tools**
- 
-<table><tr><td valign="top" width="33%">
 
+<table><tr><td valign="top" width="33%">
 
 
 ### Frontend
 <div align="center"> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" height="50" /> 
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Canva_Logo.svg/2560px-Canva_Logo.svg.png" alt="Canva" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
@@ -30,27 +27,27 @@ I write code⚡ JavaScript, React and Node.js enthusiast.
 
 ### Backend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
 
 
-
-### DevOps  
+### Headless CMS & eCommerce  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://www.sanity.io/static/images/logo_rounded_square.png" alt="Sanity" height="50" />  
+<img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1642940899918331908/rgDM_I8h_400x400.jpg" alt="MedusaJS" height="50" />
 </div>
 
 </td></tr></table>  
 
-
-#### 
 ----
 
-
 <!---
-dosha10/dosha10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+your-github-username/your-repo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
