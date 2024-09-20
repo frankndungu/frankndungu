@@ -38,7 +38,6 @@ I write code ⚡
 ### Headless CMS & eCommerce  
 <div align="center">  
 <img style="margin: 10px" src="https://www.sanity.io/static/images/logo_rounded_square.png" alt="Sanity" height="50" />  
-<img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1642940899918331908/rgDM_I8h_400x400.jpg" alt="MedusaJS" height="50" />
 </div>
 
 </td></tr></table>  
